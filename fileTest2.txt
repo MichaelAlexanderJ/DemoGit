@@ -1,2 +1,3 @@
 file dibuat di lokal
 baris ini diedit di remote
+baris ini diedit di lokal
